@@ -1,4 +1,4 @@
-package com.megarjtm.code.hackathone.bst;
+package com.megarajtm.code.hackathon.bst;
 
 public class TreeNode {
     int val;
