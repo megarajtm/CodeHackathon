@@ -8,4 +8,24 @@ public class TreeNode {
     TreeNode(int x) {
         val = x;
     }
+
+    public void setLeft(final TreeNode left) {
+        this.left = left;
+    }
+
+    public void setRight(final TreeNode right) {
+        this.right = right;
+    }
+
+    public int getVal() {
+        return val;
+    }
+
+    public TreeNode getLeft() {
+        return left;
+    }
+
+    public TreeNode getRight() {
+        return right;
+    }
 }
